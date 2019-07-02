@@ -5,6 +5,9 @@ First update: 1st July 2019
 second update: 2nd July 2019
 
 
+
 statsmodels OLS-regression
+
 Statsmodels ttest
+
 statsmodels skewness & kurtosis
